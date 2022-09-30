@@ -1,0 +1,22 @@
+.navbar-custom {
+  background-color: rgb(20, 175, 20);
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: lightgreen;
+  text-align: center;
+  color: black;
+}
+
+.projects {
+  background-color: lightgreen;
+}
+
+.img-height {
+  height: 18rem;
+}
+
+section {
+  padding-top: 5rem;
+}
